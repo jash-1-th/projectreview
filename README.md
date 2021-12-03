@@ -132,3 +132,31 @@ benefits like
 • Real time analysis
 • Time saving factor
 
+
+#DATA
+
+An example of the data we used...
+
+1	extracurricular activities are excellent and provides best platform to students.
+1	Good 
+1	Extra curricular activities also help students to divert their mind from their study for some time. University plays an important role in this task.
+-1	Complete wastage of time. Again this opinion is strictly personal and may not coincide with others.
+1	extracurricular activities increases mental and physical abilities
+1	Yes
+0	No views
+0	No idea about the extracurricular activities. 
+1	Good it provides a great platform
+1	Good it provides a great platform
+1	While coming to extracurriculum activities it's better than any other university which I had come around.
+1	Awesome
+1	ok
+1	This university is no1 in terms of extracurricular activities and in encouraging students to participate at their comfort levels. 
+1	Good
+1	Good
+1	Great job
+1	excellent
+1	Its give various opportunities and exposure
+0	This is really a good thing that events happen in our university regularly but they must be announced early so that every student can prepare themselves for participation because sometimes we get to know about most of the events when they have already been conducted. So announcement must be there.
+1	Good.
+1	Good
+1	Goo
