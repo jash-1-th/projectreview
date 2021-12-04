@@ -1,7 +1,7 @@
 # projectreview
-sem5 project
+#sem5 project
 
-INTRODUCTION
+#INTRODUCTION
 Our project is about building a machine learning model 
 which analyzes review based on performance thereby 
 generating a score and use sentimental analysis to check 
@@ -156,7 +156,4 @@ An example of the data we used...
 1	Great job
 1	excellent
 1	Its give various opportunities and exposure
-0	This is really a good thing that events happen in our university regularly but they must be announced early so that every student can prepare themselves for participation because sometimes we get to know about most of the events when they have already been conducted. So announcement must be there.
-1	Good.
-1	Good
-1	Goo
+0	This is really a good thing that events happen in our university regularly but they must be announced early so that every student can prepare themselves for participation 
